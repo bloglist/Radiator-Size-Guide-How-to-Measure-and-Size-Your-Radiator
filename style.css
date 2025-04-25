@@ -223,17 +223,6 @@ nav.nav-menu {
     font-weight: 500;
     color: #000000
   }
-  table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 80%;
-  }
-  td, th {
-    border: 1px solid #f6f6f6;
-    text-align: left;
-    padding: 25px;
-  }
-  
   /* Three image containers (use 25% for four, and 50% for two, etc) */
   .column {
     float: left;
